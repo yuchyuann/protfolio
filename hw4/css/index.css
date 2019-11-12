@@ -1,0 +1,8 @@
+body {
+    font-family: "MyLucida";
+}
+
+@font-face {
+    font-family: "MyLucida";
+    src: url(/font/LucidaGrande.ttc);
+}

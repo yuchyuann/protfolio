@@ -1,0 +1,99 @@
+    html * {
+        font-family: 'Lucida Grande';
+    }
+    /* td {
+        border-bottom: 3pt solid rgb(255, 243, 235);
+    } */
+    
+    tr,
+    td,
+    th {
+        color: rgb(59, 51, 51);
+        text-align: center;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+    }
+    
+    li {
+        display: inline;
+    }
+    
+    li {
+        float: left;
+    }
+    
+    li {
+        padding-bottom: 5pt;
+    }
+    
+    a {
+        display: block;
+        padding: 8px;
+        background-color: #FFFFFF;
+    }
+    
+    ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+        overflow: hidden;
+        background-color: #FFFFFF;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    }
+    
+    li {
+        float: left;
+    }
+    
+    li a {
+        display: block;
+        color: rgb(59, 51, 51);
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+    }
+    /* Change the link color to #111 (black) on hover */
+    
+    li a:hover {
+        color: rgb(52, 158, 158);
+    }
+    
+    ul {
+        position: sticky;
+        top: 0;
+        width: 100%;
+    }
+    
+    .footer h3 {
+        text-align: center;
+        color: rgb(85, 73, 73);
+    }
+    
+    #p1:hover {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+    }
+    
+    #p2:hover {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+    }
+    
+    #p3:hover {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+    }
+    
+    #p4:hover {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+    }
+    
+    #p5:hover {
+        opacity: 0.8;
+        filter: alpha(opacity=80);
+    }
