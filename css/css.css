@@ -1,0 +1,198 @@
+body {
+    font-family: "MyLucida";
+}
+
+@font-face {
+    font-family: "MyLucida";
+    src: url(/font/LucidaGrande.ttc);
+}
+
+html * {
+    font-family: 'Lucida Grande';
+}
+
+tr,
+td,
+th {
+    color: rgb(59, 51, 51);
+    text-align: center;
+}
+
+li {
+    display: inline;
+    float: left;
+    padding-bottom: 5pt;
+}
+
+a {
+    display: block;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #FFFFFF;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+li a {
+    display: block;
+    color: rgb(59, 51, 51);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change the link color to #111 (black) on hover */
+
+li a:hover {
+    color: rgb(52, 158, 158);
+}
+
+ul {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    padding: 30px;
+}
+
+.footer h3 {
+    text-align: center;
+    color: rgb(85, 73, 73);
+}
+
+#p1:hover {
+    opacity: 0.5;
+    filter: alpha(opacity=60);
+    transform: scale(1.15, 1.15);
+    -webkit-transform: scale(1.15, 1.15);
+    -moz-transform: scale(1.15, 1.15);
+    -ms-transform: scale(1.15, 1.15);
+    -o-transform: scale(1.15, 1.15);
+}
+
+.demoo:hover {
+    opacity: 0.7;
+    filter: alpha(opacity=80);
+}
+
+.navvi {
+    font-family: "MyLucida";
+    z-index: 20;
+}
+
+body {
+    /*height: 10000px;*/
+    font-family: "MYLucida";
+    background-color: #2980b9;
+    padding: 20px 30px;
+    margin: 0px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+    padding: 0px;
+    margin: 0px;
+}
+
+.caption-style-4 {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.caption-style-4 li {
+    float: center;
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.caption-style-4 li:hover .caption {
+    opacity: 1;
+}
+
+.caption-style-4 li:hover img {
+    opacity: 0.4;
+    transform: scale(1.15, 1.15);
+    -webkit-transform: scale(1.15, 1.15);
+    -moz-transform: scale(1.15, 1.15);
+    -ms-transform: scale(1.15, 1.15);
+    -o-transform: scale(1.15, 1.15);
+}
+
+.caption-style-4 img {
+    margin: 40px;
+    align-content: center;
+    padding: 0px;
+    float: left;
+    z-index: 4;
+}
+
+.caption-style-4 .caption {
+    cursor: pointer;
+    position: absolute;
+    opacity: 0;
+    -webkit-transition: all 0.45s ease-in-out;
+    -moz-transition: all 0.45s ease-in-out;
+    -o-transition: all 0.45s ease-in-out;
+    -ms-transition: all 0.45s ease-in-out;
+    transition: all 0.45s ease-in-out;
+}
+
+.caption-style-4 img {
+    -webkit-transition: all 0.25s ease-in-out;
+    -moz-transition: all 0.25s ease-in-out;
+    -o-transition: all 0.25s ease-in-out;
+    -ms-transition: all 0.25s ease-in-out;
+    transition: all 0.25s ease-in-out;
+}
+
+.caption-style-4 .blur {
+    background-color: rgba(255, 251, 251, 0);
+    height: 225px;
+    width: 400px;
+    z-index: 5;
+    position: absolute;
+}
+
+.caption-style-4 .caption-text h1 {
+    text-transform: uppercase;
+    font-size: 40px;
+}
+
+.caption-style-4 .caption-text {
+    z-index: 10;
+    color: #192020;
+    position: relative;
+    width: 400px;
+    height: 225px;
+    text-align: center;
+    top: 100px;
+}
+
+.caption-style-4 td {
+    float: center;
+    padding: 0px;
+    position: relative;
+    overflow: hidden;
+}
+
+.caption-style-4 td:hover .caption {
+    opacity: 1;
+}
+
+.caption-style-4 td:hover img {
+    opacity: 0.2;
+    transform: scale(1.15, 1.15);
+    -webkit-transform: scale(1.15, 1.15);
+    -moz-transform: scale(1.15, 1.15);
+    -ms-transform: scale(1.15, 1.15);
+    -o-transform: scale(1.15, 1.15);
+}
