@@ -48,8 +48,8 @@ function windowResized() {
 
 function draw() {
 
-    image(bImg, x1, 0, 1300, 610);
-    image(bImg, x2, 0, 1300, 610);
+    image(bImg, x1, 0, width, height);
+    image(bImg, x2, 0, width, height);
 
 
     if (x1 < -width) {
