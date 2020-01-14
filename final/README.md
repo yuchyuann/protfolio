@@ -1,6 +1,6 @@
 ### 簡介
 這是一個跑跑遊戲網站，類似Google離線的小恐龍，
-遊戲名稱取為Escape from Reality And Eat Ceiba。
+遊戲名稱取為Escape from Reality and Eat Ceiba。
 
 ### 如何使用
 ##### 遊戲規則
@@ -9,11 +9,11 @@
 
 
 ### 技術部分
-##### 1.CSS
+##### 1. CSS
 * Bootstrap NavBar
 * Bootstrap Button
 
-##### 2.p5.js繪圖
+##### 2. p5.js繪圖
 * setup: createCanvas
 * preload
 * windowresize
@@ -29,9 +29,9 @@
   3. jump
   4. show
   
-##### 3.jquery
+##### 3. jquery
 * hide element
 * score
 * keypress function 
 
-##### 4.所有圖片是我畫的
+##### 4. 所有圖片是我畫的
