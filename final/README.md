@@ -9,11 +9,10 @@
 
 
 ### 技術部分
-##### Bootstrap
-* NavBar
-* Button
-* hide element
-* score
+##### CSS
+* Bootstrap NavBar
+* Bootstrap Button
+
 ##### p5.js繪圖
 * setup: creatcanvas
 * preload
@@ -29,5 +28,8 @@
   2. hit: collide 2D
   3. jump
   4. show
-##### CSS
+  
+##### jquery
+* hide element
+* score
 
