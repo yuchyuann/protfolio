@@ -9,9 +9,25 @@
 
 
 ### 技術部分
+##### Bootstrap
+* NavBar
+* Button
+* hide element
+* score
+##### p5.js繪圖
+* setup: creatcanvas
+* preload
+* windowresize
+* draw: 
+  1. 背景圖片反覆移動
+  2. 敵人出現是以array random產生，每個敵人出現間距不一樣
+  3. 主角的移動
+  4. 速度隨分數增加，分數越高，速度越快
+  5. 分數每0.1秒+1分
+* class: 每個角色的功能
+  1. move
+  2. hit: collide 2D
+  3. jump
+  4. show
 ##### CSS
-* Bootstrap NavBar
-* Bootstrap Button
-##### p5js繪圖
-* setup
-* 
+
