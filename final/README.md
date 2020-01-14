@@ -14,7 +14,7 @@
 * Bootstrap Button
 
 ##### p5.js繪圖
-* setup: creatcanvas
+* setup: createCanvas
 * preload
 * windowresize
 * draw: 
@@ -33,3 +33,5 @@
 * hide element
 * score
 * keypress function 
+
+##### 背景圖片是我畫的
