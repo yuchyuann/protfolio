@@ -9,11 +9,11 @@
 
 
 ### 技術部分
-##### CSS
+##### 1.CSS
 * Bootstrap NavBar
 * Bootstrap Button
 
-##### p5.js繪圖
+##### 2.p5.js繪圖
 * setup: createCanvas
 * preload
 * windowresize
@@ -29,9 +29,9 @@
   3. jump
   4. show
   
-##### jquery
+##### 3.jquery
 * hide element
 * score
 * keypress function 
 
-##### 背景圖片是我畫的
+##### 4.所有圖片是我畫的
