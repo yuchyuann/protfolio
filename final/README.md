@@ -32,4 +32,4 @@
 ##### jquery
 * hide element
 * score
-
+* keypress function 
