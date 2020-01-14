@@ -10,7 +10,7 @@
 
 
 ### 技術
-Bootstrap NavBar
-Bootstrap Button
+* Bootstrap NavBar
+* Bootstrap Button
 
 
